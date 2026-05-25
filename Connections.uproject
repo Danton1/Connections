@@ -27,7 +27,7 @@
 		},
 		{
 			"Name": "NwiroIntegrationKit",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
